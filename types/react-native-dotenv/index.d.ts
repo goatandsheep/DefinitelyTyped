@@ -1,4 +1,4 @@
-// Type definitions for react-native-dotenv 2.2.0+
+// Type definitions for react-native-dotenv 2.2
 // Project: https://github.com/goatandsheep/react-native-dotenv
 // Definitions by: goatandsheep <https://github.com/goatandsheep>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
