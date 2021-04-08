@@ -1,3 +1,3 @@
-import env from "react-native-dotenv";
+import { API_KEY } from "@env";
 
-env.API_KEY;
+API_KEY;
